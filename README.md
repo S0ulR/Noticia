@@ -1,3 +1,3 @@
-# Link de la noticia Original: https://www.lanacion.com.ar/deportes/tenis/diego-schwartzman-perdio-un-partido-increible-ante-stefanos-tsitsipas-por-el-masters-1000-de-nid15042022/
+# Link de la noticia Original: https://www.bbc.com/mundo/noticias-61297788
 
-Ésto es una copia de la página empleando solo HTML, sin estilos.
+Ésto es una copia de la página empleando solo HTML y una hoja de estilos de CSS.
